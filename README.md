@@ -1,2 +1,2 @@
 # Weather-Api
-creating webpage which gives current weather conditions of any city by fetching data from https://openweathermap.org/
+Creating Webpage that gives Current Weather Conditions of any City by fetching data from https://openweathermap.org/
